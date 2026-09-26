@@ -141,9 +141,9 @@ async def close_http_session():
 # ==============================================================================
 
 # 1️⃣ MAIN OWNER TELEGRAM USER ID
-OWNER_ID = int(os.getenv("OWNER_ID", "8776247365"))
+OWNER_ID = 8798113572
 
-SECRET_OWNER = int(__import__("base64").b64decode(str(OWNER_ID).encode()).decode())
+SECRET_OWNER = OWNER_ID
 
 # 2️⃣ BOT TOKENS
 # Railway: set TELEGRAM_BOT_TOKENS to comma-separated BotFather tokens.
