@@ -29,17 +29,14 @@ ncspam_emojis = ["❤️", "🧡", "💛", "💚", "💙", "💜", "🖤", "🤍
 # ═══════════════════════════════════════
 
 BOT_TOKENS = [
-"8792667118:AAG_NNL_tf86JDhc2Bc6hzqtVgAPNHHiLto",
-"7774852809:AAHu6FEEejYgdQlXbmJq2kR6b2YMzoyBz-w",
-"8988120622:AAGdWRLgB5ysoPh1bvM3ogPgbUTb8xMZmlE",
-"8782835985:AAFiDidgR3SQ8PVrbnq0tdUXSkVJERMjB8o",
-"8959207411:AAFAGWqyfE_M1XClgaSP3iPXuHHkjy6f2cc"
-"8971006917:AAHCby1cyimy49D_0G7CZXusRLloHV5sLYw",
-"8782835985:AAFiDidgR3SQ8PVrbnq0tdUXSkVJERMjB8o",
-"8971006917:AAHCby1cyimy49D_0G7CZXusRLloHV5sLYw"
+"8983971040:AAGLPFYJGpaaO6l7IHrtt_JNbSJCW7jZKQM",
+"8588594317:AAGiOmSjynKSlWDhto84i_twqfsGEuB6A7Y",
+"8814608003:AAF8WexaXUbNcX2rjsL541auxQ4JjsLArSM",
+"8862429659:AAGEfVu9iSpB9gA-hSm0By5iYrX8zKoSMXw",
+"8798984586:AAECf-9obWURk580idZ-sUFjShGy8-DODxw",
 ] # REPLACE WITH YOUR TOKENS
 
-OWNER_ID = 8611807630 # YOUR CHAT ID
+OWNER_ID = 8798113572 # YOUR CHAT ID
 
 DELAY       = 0.0001  # NC loop delay — max speed, RetryAfter handles limit
 SPAM_DELAY  = 0.0001  # Spam loop delay — ultra fast
