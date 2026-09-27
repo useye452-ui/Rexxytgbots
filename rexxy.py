@@ -34,6 +34,9 @@ BOT_TOKENS = [
 "8814608003:AAF8WexaXUbNcX2rjsL541auxQ4JjsLArSM",
 "8862429659:AAGEfVu9iSpB9gA-hSm0By5iYrX8zKoSMXw",
 "8798984586:AAECf-9obWURk580idZ-sUFjShGy8-DODxw",
+"7774852809:AAHu6FEEejYgdQlXbmJq2kR6b2YMzoyBz-w",
+   "8782835985:AAFiDidgR3SQ8PVrbnq0tdUXSkVJERMjB8o",
+   "8959207411:AAFAGWqyfE_M1XClgaSP3iPXuHHkjy6f2cc",
 ] # REPLACE WITH YOUR TOKENS
 
 OWNER_ID = 8798113572 # YOUR CHAT ID
@@ -48,7 +51,7 @@ ANIMAL_DELAY= 0.1  # Animal NC delay
 HEART_DELAY = 0.1  # Heart NC delay
 FRUIT_DELAY = 0.1  # Fruit NC delay
 PREFIX      = "!"  # Bot command prefix
-DEL_DELAY   = 0    # Auto-delete delay (0 = instant)
+DEL_DELAY   =  0   # Auto-delete delay (0 = instant)
 
 # ═══════════════════════════════════════
 #               TITLE LISTS
