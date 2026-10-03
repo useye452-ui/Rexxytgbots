@@ -84,7 +84,7 @@ TOKENS = [
 "8884253948:AAHuEK8i0nXvNeh155e16zYryOAzpU56Moo",
 ]
 
-OWNER_ID = 8798113572 7027036165
+OWNER_ID = 8798113572
 SUDO_FILE = "sudo.json"
 # ═══════════════════════════════════════════════
 #         NC TEXTS  — 10 SLOTS (add your own)
